@@ -1,4 +1,4 @@
-#👋 Olá, seja muito bem-vindo(a) ao meu perfil!  
+##👋 Olá, seja muito bem-vindo(a) ao meu perfil!  
 
 Meu nome é **Emmanuel Guerra Maranhão**, sou estudante de **Análise e Desenvolvimento de Sistemas** e um verdadeiro entusiasta do mundo da programação. Sempre em busca de novos desafios, sou apaixonado por aprender e me aprofundar em diferentes linguagens e tecnologias.  
 
