@@ -9,7 +9,7 @@ Meu nome é **Emmanuel Guerra Maranhão**, sou estudante de **Análise e Desenvo
 
 ## 🛠️ Tecnologias e Ferramentas  
 Atualmente domino e trabalho com as seguintes tecnologias:  
-✅ **Linguagens e frameworks:** Java, JavaScript C, HTML, CSS, SQL, React  
+✅ **Linguagens e frameworks:** Java + SpringBoot, Python, PostgresSQL, mySQL, JavaScript, C, HTML5 e CSS, React  
 ✅ **Ferramentas:** VS Code, IntelliJ IDEA, Figma, Git  
 
 📚 **Atualmente estudando:** Java, C, Python e aprofundando meus conhecimentos em React.  
