@@ -1,4 +1,4 @@
-# Olá, eu sou o Emmanuel Guerra! 👋
+# Olá, me chamo Emmanuel Guerra
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Estudante%20de%20ADS-blue?style=for-the-badge" alt="Status">
@@ -9,7 +9,7 @@
 ---
 
 ### 🚀 Sobre Mim
-Sou graduando em **Análise e Desenvolvimento de Sistemas** e entusiasta da tecnologia. Atualmente, atuo como **Jovem Aprendiz em Desenvolvimento de Software na G4F** e participo de residências tecnológicas que moldam minha visão sobre qualidade e gestão de produtos.
+Sou graduando em **Análise e Desenvolvimento de Sistemas** e estou focado em me aprimorar como desenvolvedor com foco em Back-End. Atualmente, estou como **Desenvolvedor de Software na G4F Soluções**, também estou elaborando e desenvolvendo projetos, além de residências tecnológicas que moldam minha visão sobre qualidade e gestão de produtos.
 
 * 🎓 **Formação:** Cursando ADS na Faculdade Católica Imaculada Conceição do Recife (2024-2026).
 * 🛠️ **QA & Automação:** Especialista em automação de testes com **Playwright** pela Cesar School.
@@ -36,6 +36,21 @@ Sou graduando em **Análise e Desenvolvimento de Sistemas** e entusiasta da tecn
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=Playwright&logoColor=white)
+
+---
+
+### 📊 Estatísticas do GitHub
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Emmanuel1421&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emmanuel1421&layout=compact&langs_count=7&theme=tokyonight" />
+</p>
+
+---
+
+### 📫 Vamos conversar?
+* [cite_start]💼 **LinkedIn:** [emmanuelguerradev](https://www.linkedin.com/in/emmanuel-guerra-dev/) [cite: 4]
+* [cite_start]📧 **E-mail:** [emmanuelguerra1945@gmail.com](mailto:emmanuelguerra1945@gmail.com) [cite: 3]
+* 📸 **Instagram:** [@_emmanuel_guerra](https://www.instagram.com/_emmanuel_guerra/)
 
 ---
 
