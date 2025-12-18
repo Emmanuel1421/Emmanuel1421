@@ -9,12 +9,12 @@
 ---
 
 ### 🚀 Sobre Mim
-[cite_start]Sou graduando em **Análise e Desenvolvimento de Sistemas** [cite: 8, 10] e entusiasta da tecnologia. [cite_start]Atualmente, atuo como **Jovem Aprendiz em Desenvolvimento de Software na G4F** [cite: 22, 23] e participo de residências tecnológicas que moldam minha visão sobre qualidade e gestão de produtos.
+Sou graduando em **Análise e Desenvolvimento de Sistemas** e entusiasta da tecnologia. Atualmente, atuo como **Jovem Aprendiz em Desenvolvimento de Software na G4F** e participo de residências tecnológicas que moldam minha visão sobre qualidade e gestão de produtos.
 
-* [cite_start]🎓 **Formação:** Cursando ADS na Faculdade Católica Imaculada Conceição do Recife (2024-2026)[cite: 8, 9, 10].
-* [cite_start]🛠️ **QA & Automação:** Especialista em automação de testes com **Playwright** pela Cesar School[cite: 25, 26, 65].
-* [cite_start]💼 **Gestão de Projetos:** Vivência prática no **Porto Digital**, atuando na idealização, documentação (Figma) e gestão via Scrum/Kanban[cite: 46, 47, 49, 51, 63, 64].
-* [cite_start]🌎 **Idiomas:** Inglês nível **C1 (Avançado)** certificado pela EF Education[cite: 29, 30].
+* 🎓 **Formação:** Cursando ADS na Faculdade Católica Imaculada Conceição do Recife (2024-2026).
+* 🛠️ **QA & Automação:** Especialista em automação de testes com **Playwright** pela Cesar School.
+* 💼 **Gestão de Projetos:** Vivência prática no **Porto Digital**, atuando na idealização, documentação (Figma) e gestão via Scrum/Kanban.
+* 🌎 **Idiomas:** Inglês nível **C1 (Avançado)** certificado pela EF Education.
 
 ---
 
@@ -39,17 +39,9 @@
 
 ---
 
-### 📊 Estatísticas do GitHub
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Emmanuel1421&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emmanuel1421&layout=compact&langs_count=7&theme=tokyonight" />
-</p>
-
----
-
 ### 📫 Vamos conversar?
-* [cite_start]💼 **LinkedIn:** [emmanuelguerradev](https://www.linkedin.com/in/emmanuel-guerra-dev/) [cite: 4]
-* [cite_start]📧 **E-mail:** [emmanuelguerra1945@gmail.com](mailto:emmanuelguerra1945@gmail.com) [cite: 3]
+* 💼 **LinkedIn:** [emmanuelguerradev](https://www.linkedin.com/in/emmanuel-guerra-dev/)
+* 📧 **E-mail:** [emmanuelguerra1945@gmail.com](mailto:emmanuelguerra1945@gmail.com)
 * 📸 **Instagram:** [@_emmanuel_guerra](https://www.instagram.com/_emmanuel_guerra/)
 
 ---
