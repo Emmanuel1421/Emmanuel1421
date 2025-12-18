@@ -48,8 +48,8 @@ Sou graduando em **Análise e Desenvolvimento de Sistemas** e estou focado em me
 ---
 
 ### 📫 Vamos conversar?
-* [cite_start]💼 **LinkedIn:** [emmanuelguerradev](https://www.linkedin.com/in/emmanuel-guerra-dev/) [cite: 4]
-* [cite_start]📧 **E-mail:** [emmanuelguerra1945@gmail.com](mailto:emmanuelguerra1945@gmail.com) [cite: 3]
+* [cite_start]💼 **LinkedIn:** [emmanuelguerradev](https://www.linkedin.com/in/emmanuel-guerra-dev/) 
+* [cite_start]📧 **E-mail:** [emmanuelguerra1945@gmail.com](mailto:emmanuelguerra1945@gmail.com) 
 * 📸 **Instagram:** [@_emmanuel_guerra](https://www.instagram.com/_emmanuel_guerra/)
 
 ---
