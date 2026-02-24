@@ -1,8 +1,8 @@
 # Olá, me chamo Emmanuel Guerra
 
 <p align="center">
-#https://img.shields.io/badge/Status-Estudante%20de%20ADS-blue?style=for-the-badge
-  <img src="https://img.shields.io/github/stars/Estagi%C3%A1rio" alt="Status">
+
+  <img src="https://img.shields.io/badge/Status-Estudante%20de%20ADS-blue?style=for-the-badge" alt="Status">
   <img src="https://img.shields.io/badge/Nível%20Inglês-C1%20Advanced-green?style=for-the-badge" alt="English C1">
   <img src="https://img.shields.io/badge/Local-Olinda,%20PE-red?style=for-the-badge" alt="Location">
 </p>
