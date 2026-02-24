@@ -9,7 +9,7 @@
 ---
 
 ### 🚀 Sobre Mim
-Sou graduando em **Análise e Desenvolvimento de Sistemas** e estou focado em me aprimorar como desenvolvedor com foco em Back-End. Atualmente, estou como **Desenvolvedor de Software na G4F Soluções**, também estou elaborando e desenvolvendo projetos, além de residências tecnológicas que moldam minha visão sobre qualidade e gestão de produtos.
+Sou graduando em **Análise e Desenvolvimento de Sistemas** e estou focado em me aprimorar como desenvolvedor com foco em Back-End. Atualmente, estou como **Desenvolvedor de Software na Sieg Soluções Fiscais Estratégicas**, também estou elaborando e desenvolvendo projetos, além de residências tecnológicas que moldam minha visão sobre qualidade e gestão de produtos.
 
 * 🎓 **Formação:** Cursando ADS na Faculdade Católica Imaculada Conceição do Recife (2024-2026).
 * 🛠️ **QA & Automação:** Especialista em automação de testes com **Playwright** pela Cesar School.
@@ -21,6 +21,7 @@ Sou graduando em **Análise e Desenvolvimento de Sistemas** e estou focado em me
 ### 🛠️ Tecnologias e Ferramentas
 
 #### 💻 Linguagens e Frameworks
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=unity&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -49,8 +50,8 @@ Sou graduando em **Análise e Desenvolvimento de Sistemas** e estou focado em me
 
 ### 📫 Vamos conversar?
 * 💼 **LinkedIn:** [emmanuelguerradev](https://www.linkedin.com/in/emmanuel-guerra-dev/) 
-* 📧 **E-mail:** [emmanuelguerra1945@gmail.com](mailto:emmanuelguerra1945@gmail.com) 
-* 📸 **Instagram:** [@_emmanuel_guerra](https://www.instagram.com/_emmanuel_guerra/)
+* 📧 **E-mail:** [emmanuel321312@gmail.com](mailto:emmanuel321312@gmail.com) 
+
 
 ---
 
