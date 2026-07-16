@@ -13,7 +13,7 @@
 Sou graduando em **Análise e Desenvolvimento de Sistemas** e estou focado em me aprimorar como desenvolvedor com foco em Back-End. Atualmente, estou como **Desenvolvedor de Software na Sieg Soluções Fiscais Estratégicas**, também estou elaborando e desenvolvendo projetos, além de residências tecnológicas que moldam minha visão sobre qualidade e gestão de produtos.
 
 * 🎓 **Formação:** Cursando ADS na Faculdade Católica Imaculada Conceição do Recife (2024-2026).
-* 🛠️ **QA & Automação:** Especialista em automação de testes com **Playwright** pela Cesar School.
+* 🛠️ **QA & Automação:** Entusiasta em automação de testes com **Playwright** pela Cesar School.
 * 💼 **Gestão de Projetos:** Vivência prática no **Porto Digital**, atuando na idealização, documentação (Figma) e gestão via Scrum/Kanban.
 * 🌎 **Idiomas:** Inglês nível **C1 (Avançado)** certificado pela EF Education.
 
